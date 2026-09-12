@@ -6,8 +6,6 @@
 ![Excel](https://img.shields.io/badge/Excel-Data%20Preparation-217346?logo=microsoftexcel)
 ![Tableau](https://img.shields.io/badge/Tableau-Public-E97627?logo=tableau)
 
-An end-to-end Business Intelligence project analyzing healthcare operations, patient performance, financial performance, service efficiency, physician productivity, patient experience, and quality indicators for a simulated Saudi healthcare network.
-
 ---
 
 ## Table of Contents
