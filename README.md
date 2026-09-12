@@ -25,7 +25,6 @@
 - [Challenges & Solutions](#challenges--solutions)
 - [Repository Structure](#repository-structure)
 - [Conclusion](#conclusion)
-- [Author](#author)
 
 ---
 
