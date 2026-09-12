@@ -293,10 +293,3 @@ Healthcare Operations & Patient Performance Analytics demonstrates a complete BI
 
 ---
 
-## Author
-
-**Abdullah Ahmad**
-Business Intelligence and Data Analytics Portfolio
-GitHub: [abdullahahmadd](https://github.com/abdullahahmadd)
-
----
