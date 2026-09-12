@@ -191,37 +191,37 @@ All dashboard screenshots in [`05_Dashboards/`](./05_Dashboards).
 
 ### 1. Healthcare Executive Performance Overview
 
-![Healthcare Executive Performance Overview](05_Dashboards/01_Healthcare_Executive_Performance_Overview.png)
+![Healthcare Executive Performance Overview](05_Dashboards/01_Healthcare_Executive_Performance_Overview.pdf)
 
 Consolidated view of financial performance, encounter volume, patient satisfaction, and payer revenue for executive management. **Results:** SAR 110.1M service revenue, SAR 43.6M gross profit, 39.6% margin, 75,000 encounters, 4.52/5 satisfaction. **Use:** monitor enterprise performance, compare revenue vs. cost, review profitability against the 35% benchmark.
 
 ### 2. Patient & Utilization Analytics
 
-![Patient & Utilization Analytics](05_Dashboards/02_Patient_Utilization_Analytics.png)
+![Patient & Utilization Analytics](05_Dashboards/02_Patient_Utilization_Analytics.pdf)
 
 Analyzes patient demand distribution, encounter-mix, and utilization patterns across departments and facilities. **Use:** align patient demand with service capacity, staff allocation, and operational planning.
 
 ### 3. Hospital Operations & Capacity
 
-![Hospital Operations & Capacity](05_Dashboards/03_Hospital_Operations_Capacity.png)
+![Hospital Operations & Capacity](05_Dashboards/03_Hospital_Operations_Capacity.pdf)
 
 Measures facility capacity, bed utilization, appointment activity, cancellations, and waiting time. **Results:** 3,190 total bed capacity, 77.8% bed utilization (within 75-85% target), 5,000 appointments, 6.0% cancellation rate (above 5% target), 21.2 min average wait (above 20 min target). **Recommendation:** reduce wait time to <=20 min and cancellations to <=5%.
 
 ### 4. Financial & Revenue Analytics
 
-![Financial & Revenue Analytics](05_Dashboards/04_Financial_Revenue_Analytics.png)
+![Financial & Revenue Analytics](05_Dashboards/04_Financial_Revenue_Analytics.pdf)
 
 Evaluates revenue generation, treatment cost, profitability, service economics, and payer collection. **Results:** SAR 66.5M total treatment cost, SAR 1,468 avg revenue/encounter, SAR 886 avg cost/encounter, SAR 581 avg gross profit/encounter, ~SAR 1.2M outstanding claim value against a 90% collection benchmark. **Recommendation:** maintain gross margin above 35% while prioritizing payers/services needing collection or cost-efficiency improvement.
 
 ### 5. Patient Experience & Quality
 
-![Patient Experience & Quality](05_Dashboards/05_Patient_Experience_Quality.png)
+![Patient Experience & Quality](05_Dashboards/05_Patient_Experience_Quality.pdf)
 
 Evaluates satisfaction, patient outcomes, survey coverage, and readmission performance. **Results:** 6,000 survey responses, 4.52/5 satisfaction (above 4.5 target), 60.0% satisfaction-within-target, 75.5% positive outcome rate, 20.0% survey coverage, 6.51% overall readmission (above 6% target). **Encounter-type finding:** inpatient readmission runs ~9.8% vs. 5.7% outpatient and 5.4% emergency. **Recommendation:** prioritize inpatient readmission reduction and expand survey participation.
 
 ### 6. Physician & Service Performance
 
-![Physician & Service Performance](05_Dashboards/06_Physician_Service_Performance.png)
+![Physician & Service Performance](05_Dashboards/06_Physician_Service_Performance.pdf)
 
 Evaluates provider productivity and service-level financial efficiency. **Results:** 60 physicians, 1,250 avg encounters/physician, ~SAR 1.8M avg revenue/physician, 142.0 min avg service time, SAR 12.15 revenue/treatment minute. **Use:** identify workload imbalances, high-performing services, and revenue-efficiency opportunities.
 
